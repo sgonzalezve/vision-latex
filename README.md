@@ -13,7 +13,7 @@ El objetivo principal de este proyecto es diseñar una aplicación fácil de usa
 
 ## Tecnologías Utilizadas
 
-El proyecto utilizará las siguientes tecnologías:
+El proyecto usa las siguientes tecnologías:
 
 - **Python:** Utilizaremos Python como lenguaje principal de programación debido a su popularidad y las bibliotecas robustas disponibles para procesamiento de imágenes y aprendizaje profundo.
 - **OpenCV:** Emplearemos OpenCV para la manipulación de imágenes, detección de contornos y reconocimiento de texto.
