@@ -1,4 +1,4 @@
-# Vision Latex
+# CNN - Vision Latex
 ## Proyecto de Visión por Computadora: Reconocimiento Óptico de Caracteres y Conversión a LaTeX.
 
 Este proyecto tiene como objetivo desarrollar una aplicación de visión por computadora que permita a los usuarios tomar una captura de pantalla de texto impreso y convertirlo automáticamente a código LaTeX. Utilizaremos técnicas de procesamiento de imágenes y aprendizaje profundo para lograr esta tarea.
